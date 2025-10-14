@@ -1,2 +1,2 @@
 # stockprice
-using Jupiter labs to access and display stock prices
+manipulating and displaying stock data using an api
